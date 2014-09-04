@@ -1,0 +1,23 @@
+<head>Whee</head>
+<name>booya</name>
+<text>
+
+Computer: <a href="index2.php?category=all&system=computer&game=shogo_mobile_armor_division&type=sprites&level0=non-animated">Shogo: Mobile Armor Division</a>
+
+<br />
+
+GBA: <a href="index2.php?category=all&system=gameboyadvance&game=yu-gi-oh_world_championship_tournament_2004&type=sprites&level0=non-animated">Yu-Gi-Oh! World Championship Tournament 2004</a>
+
+<br />
+
+SNES: <a href="index2.php?category=all&system=snes&game=marios_picross&type=sprites">Mario's Picross</a>
+
+<br />
+
+Neo*Geo: <a href="index2.php?category=all&system=neogeo&game=king_of_fighters_95&type=sprites&level0=animated">KoF '95</a>, <a href="index2.php?category=all&system=neogeo&game=king_of_fighters_96&type=sprites&level0=animated">KoF '96</a>
+
+<br />
+
+Playstation: <a href="index2.php?category=all&system=psx&game=persona_2&type=sprites&level0=non-animated">Persona 2</a>
+
+</text>

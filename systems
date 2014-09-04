@@ -1,0 +1,69 @@
+3DO,3do,
+ sprites
+Arcade,arcade
+ sprites
+ backgrounds
+Atari 2600,atari2600
+ sprites
+Computer,computer
+ sprites
+ backgrounds
+ icons
+ scans
+Dreamcast,dreamcast
+ sprites
+Game Boy,gameboy
+ sprites
+ backgrounds
+Game Boy Advance,gameboyadvance
+ sprites
+ backgrounds
+ scans
+ reviews
+GameCube,gamecube
+ scans
+ reviews
+Genesis,genesis
+ sprites
+ backgrounds
+Master System,sms
+ sprites
+ scans
+Neo*Geo,neogeo
+ sprites
+ backgrounds
+Neo*Geo CD,neogeocd
+ sprites
+Neo*Geo Pocket,neogeopocket
+ sprites
+NES,nes
+ sprites
+ backgrounds
+ icons
+ music
+ reviews
+Nintendo 64,n64
+ sprites
+Nintendo DS,nds
+ sprites
+Nintendo Wii,wii
+ sprites
+PlayStation,psx
+ sprites
+ icons
+PlayStation 2,ps2
+ sprites
+ scans
+Saturn,saturn
+ sprites
+ scans
+Super Nintendo,snes
+ sprites
+ backgrounds
+ icons
+ music
+ scans
+Wonderswan,wonderswan
+ sprites
+<b>Custom</b>,custom
+ sprites

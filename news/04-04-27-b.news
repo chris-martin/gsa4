@@ -1,0 +1,10 @@
+<head>We're back, baby!</head>
+<name>booya</name>
+
+<text>
+Yep, GSA has come alive again with an all-new system in PHP which will allow easier, more frequent updates, and a cooler, cleaner interface for you.  Many thanks to the local PHP master Sharingan for aiding in coding and providing our new security system (which will explode ink on you if you try to remove it).  Other hardcore credits to Nemo, Holo, HBD, and Space, all doing big chunks of conversion.
+
+<p><img src="/snes/chrono_trigger/sprites/animated/anim-bosses/flea-kiss.gif" align="left" style="margin-right:7px; margin-bottom:3px">Using the site: GSA 4 works pretty much like GSA 3, with a few additions.  The links in the yellow bar at the top ('All' is underlined by default) allow you to filter out categories of media; for example, if you are only interested in backgrounds, click 'backgrounds,' and everything else with disappear.  Also new is the up arrow appearing at the top left of each page (except this one), which will allow you to easily move up a level in the navigational hierarchy.
+
+<p><img src="/pc/treasure_mountain/sprites/non-animated/elf.gif" align="right" style="margin-left:20px">Over the duration of this project, I've also reorganized <a href="index2.php?category=all&system=gameboy&game=wario_land_2&type=sprites">Wario Land 2</a>, added <a href="index2.php?category=all&system=pc&game=treasure_mountain">Treasure Mountain</a> and <a href="index2.php?category=all&system=gameboyadvance&game=advance_wars&type=sprites">Advance Wars</a>, filled in <a href="index2.php?category=all&system=snes&game=chrono_trigger&type=sprites">Chrono Trigger</a>, added our first scan, <a href="index2.php?category=all&system=pc&game=sims&type=scans">The Sims</a>' CD case, and probably a few other things I can't remember.
+</text>

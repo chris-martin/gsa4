@@ -1,0 +1,8 @@
+
+RewriteEngine on
+
+AddHandler application/x-httpd-php5 .php
+
+RewriteCond %{HTTP_HOST} ^gsarchives.net$ [OR]
+RewriteCond %{HTTP_HOST} ^www.gsarchives.net$
+

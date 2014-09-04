@@ -1,0 +1,6 @@
+<head>Umm... Stuff?</head>
+<name>Holo</name>
+<text><center><a href="index2.php?category=all&system=arcade&game=mortal_kombat&type=sprites">Mortal Kombat</a>
+<br><a href="index2.php?category=all&system=arcade&game=night_warriors&type=sprites&level0=animated">Night Warriors: Darkstalkers' Revenge</a>
+<br><a href="index2.php?category=all&system=arcade&game=street_fighter_alpha_2&type=sprites&level0=animated&level1=playable">Street Fighter Alpha 2</a></center>
+</text>

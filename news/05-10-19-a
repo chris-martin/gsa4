@@ -1,0 +1,10 @@
+<head>We can rebuild him.</head>
+<name>booya</name>
+<text>After a good flurry of activity, GSA has once again reached a point of minimal updating.  I would guess that this is in part due to its administrators' educational preoccupations, but also because we have been awaiting the unveiling of a new website, whose developer has now mysteriously disappeared.<br />
+<br />
+A year and a half ago, I completed this sprite archives' first PHP site, dubbed GSA 4.0, intended to replace the ugly piles of hand-edited html with a shiny new update system based on simple text lists.  This, as it turns out, has been rather limited, and still not easy enough to work with.<br />
+<br />
+I am currently in the process of writing the script which will copy the archives into an SQL database.  This system yields far greater potential for the fifth iteration of GSA, and I am very excited about how this may turn out if I can pull off we are envisioning.<br />
+<br />
+As always, this will take time, and I do have prior engagements.  Georgia Tech's Calc 2 class is not to be taken lightly.  But progress will be made.
+</text>

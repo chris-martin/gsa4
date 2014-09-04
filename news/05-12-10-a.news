@@ -1,0 +1,9 @@
+<head>Multi-update</head>
+<name>Nemo</name>
+<text>
+Today, enjoy new stuff from:<br><br>
+<a href="index2.php?category=all&system=neogeo&game=king_of_fighters_2003">King of Fighters 2003</a>: one animated sprite and 3 non-animated backgrounds<br>
+<a href="index2.php?category=all&system=snes&game=donkey_kong_country">Donkey Kong Country</a>: 82 non-animated sprites and 6 non-animated backgrounds
+
+
+</text>

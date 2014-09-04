@@ -1,0 +1,64 @@
+<head>Update... Now that's a thing I've not done in a long time.</head>
+<name>booya</name>
+<text>
+
+Today's update will be in picture form.<br /><br />
+
+<table cellpadding="3" cellspacing="0" width="100%"><tr><td style="vertical-align:center;text-align:center">
+
+<a href="index2.php?category=all&system=snes&game=castlevania_vampires_kiss&type=sprites">
+	<img src="snes/castlevania_vampires_kiss/sprites/non-animated/Char_Stand-R.gif" border="0"
+	title="Castlevania: Vampire's Kiss" alt="Castlevania: Vampire's Kiss">
+</a>
+
+</td><td style="vertical-align:center;text-align:center">
+
+
+<table cellpadding="0" cellspacing="0" style="display:inline">
+<tr>
+	<td colspan="3"><a href="index2.php?category=all&system=nes&game=tetris&type=sprites&level0=non-animated">
+		<img style="position:relative; left:6px; top:1px;" src="nes/tetris/sprites/non-animated/Piece4_1.gif" border="0" title="Tetris" alt="Tetris"></a></td>
+</tr>
+<tr>
+	<td style="vertical-align:bottom"><a href="index2.php?category=all&system=nes&game=tetris&type=sprites&level0=non-animated">
+		<img src="nes/tetris/sprites/non-animated/Piece2_2.gif" border="0" title="Tetris" alt="Tetris"></a></td>
+	<td style="vertical-align:bottom"><a href="index2.php?category=all&system=nes&game=tetris&type=sprites&level0=non-animated">
+		<img style="position:relative; bottom:6px; right:1px;" src="nes/tetris/sprites/non-animated/Piece3_2.gif" border="0" title="Tetris" alt="Tetris"></a></td>
+	<td style="vertical-align:bottom"><a href="index2.php?category=all&system=nes&game=tetris&type=sprites&level0=non-animated">
+		<img style="position:relative; right:8px" src="nes/tetris/sprites/non-animated/Piece1_2.gif" border="0" title="Tetris" alt="Tetris"></a></td>
+</tr>
+</table>
+
+</td><td style="vertical-align:center;text-align:center">
+
+<a href="index2.php?category=all&system=genesis&game=monster_world_3&type=sprites">
+	<img src="genesis/monster_world_3/sprites/non-animated/shion-jumping-battlespear.gif" border="0"
+	title="Monster World 3" alt="Monster World 3">
+</a>
+
+</td><td style="vertical-align:center;text-align:center">
+
+<a href="index2.php?category=all&system=nes&game=wits&type=sprites">
+	<img src="nes/wits/sprites/non-animated/FinalEnemy_2.gif" border="0"
+	title="Wit's" alt="Wit's">
+</a>
+
+</td><td style="vertical-align:center;text-align:center">
+
+<center><div style="width:44px; height:45px;overflow:hidden;text-align:center">
+	<a href="index2.php?category=all&system=custom&game=bloodydragon&type=sprites&level0=non-animated">
+	<img src="custom/bloodydragon/sprites/non-animated/masterchief.gif" border="0"
+	title="bloodydragon's Master Chief custom" alt="bloodydragon's Master Chief custom">
+	</a>
+</div></center>
+
+</td><td style="vertical-align:center;text-align:center">
+
+<a href="index2.php?category=all&system=snes&game=great_waldo_search_the">
+	<img src="snes/great_waldo_search_the/sprites/non-animated/Char_SmallWaldo_02-R.gif" border="0"
+	title="The Great Waldo Search" alt="The Great Waldo Search">
+</a>
+
+</td></tr></table>
+
+</text>

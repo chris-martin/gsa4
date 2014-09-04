@@ -1,0 +1,8 @@
+<head>Partially Transparent Sprites?</head>
+
+<name>Hologram</name>
+<text>
+<img align="left" src="computer/maple_story/sprites/animated/enemies/Voodoo_breathe.png"> Today's update is going to be a little different.  I've recently got into the game <a href="index2.php?category=all&system=computer&game=maple_story&type=sprites">Maple Story</a>, and as usual for any 2-D game I happen to play, I look into capturing sprites from it.  Closer inspection of Maple Story's sprites revealed that a lot of the monsters (slimes and ghosts) have slightly translucent features to them.  Of course, GIF format only supports 256 colors and does not support partial transparency.  I tried to get around this by making MNGs, but couldn't find any browser to support to the MNG extension.  I knew that PNG supported partial transparency, and further investigation revealed information about an animated PNG file (APNG) that was recently developed, and would be supported in Firefox 3.
+<br><br>So, to make a long story short, sprites that contain partial transparency are now going to be in animated PNG format.  Right now <a href="http://developer.mozilla.org/devnews/index.php/2007/08/03/gran-paradiso-alpha-7-available-for-download/">Gran Paradiso</a>, a beta release of Firefox 3, is the only browser to support APNGS.  
+<br><br>The two APNGs in question are "Voodoo" (the sprite contained within this newspost), and "Nospeed".   
+</text>

@@ -1,0 +1,11 @@
+<head>Sprites and coding.</head>
+<name>booya</name>
+<text>
+
+<img src="nes/beetlejuice/sprites/animated/beetlejuice_stomp_right.gif" align="left" style="margin-right:15px; margin-top:4px; margin-bottom:4px">From the NES, we have sprites from <a href="index2.php?category=all&system=nes&game=donkey_kong&type=sprites&level0=animated">Donkey Kong</a> and <a href="index2.php?category=all&system=nes&game=beetlejuice&type=sprites">Beetlejuice</a> which PBN said he would add three months ago... but I guess that's how things go around here.
+
+<p><img src="computer/legendly_nine_gems/sprites/animated/monk_walk_south.gif" align="right" style="margin-left:20px; margin-top:15px;margin-bottom:10px">I've also added a bit of code to allow sub-division of systems; thus, the PC category has been renamed to <a href="index2.php?category=all&system=computer&letter=all">Computer</a> and now contains PC/Mac and MSX systems.  <a href="index2.php?category=all&system=computer&game=legendly_nine_gems&type=sprites&level0=animated">Legendly Nine Gems</a> has been added as our first MSX game.
+
+<p>I also have our date system fixed up prettier, and the <a href="index2.php?category=all&page=media">Media</a> pages are working again.
+
+</text>
